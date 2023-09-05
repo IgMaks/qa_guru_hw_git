@@ -3,6 +3,6 @@ package ru.bukem;
 public class Main {
     @Test
     void main() {
-        System.out.println("Helo world");
+        System.out.println("Helo");
     }
 }
