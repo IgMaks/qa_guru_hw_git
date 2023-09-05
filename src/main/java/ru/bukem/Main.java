@@ -2,6 +2,6 @@ package ru.bukem;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ello world!");
+        System.out.println("Helo world!");
     }
 }
