@@ -1,7 +1,8 @@
 package ru.bukem;
 
 public class Main {
-    public static void main(String[] args) {
+    @Test
+    void main() {
         System.out.println("Helo !");
     }
 }
