@@ -1,7 +1,8 @@
 package ru.bukem;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Helo !");
+    $Test
+    void mainTest() {
+        System.out.println("Helo World !");
     }
 }
